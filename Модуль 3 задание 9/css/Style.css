@@ -1,0 +1,96 @@
+﻿/*Первый заголовок*/
+h1 span {
+	font-size: 24px;
+}
+/*Важный текст*/
+strong {
+	font-size: 22px;
+	font-weight: bold;
+	text-transform: uppercase; 
+}
+/*видео-блок*/
+.video {
+	height: 315px;
+}
+/*Форма*/
+.form {
+	margin-top: 2px;
+	height: 315px;
+	border: 2px solid #593ec7;
+	padding: 20px 40px;
+	box-sizing: border-box;
+}
+/*Заголовок формы*/
+.form-header {
+	font-size: 20px;
+	padding-bottom: 35px;
+}
+/*Расстояние между кнопками*/
+.form-control {
+	margin-bottom:7px;
+}
+/*Кнопки*/
+.btn {
+	height: 55px;
+	margin-top: 20px;
+}
+/*Второй контейнер*/
+.s2 {
+	margin-top: 60px;
+}
+
+h2 {
+	text-transform: uppercase;
+	font-size: 24px;
+}
+
+.features img {
+	width: 80px;
+	height: 80px;
+	border: 1px solid red;
+	display: inline-block;
+}
+
+.section-header {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.section-header {
+	margin: 60px 0;
+	text-transform: uppercase;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.feature-box {
+	display: inline-block;
+	margin-bottom: 90px;	
+}
+.feature-box p {
+	font-size: 16px;
+	font-weight: bold;
+	margin-top: 20px;
+}
+.feature-box img {
+	width: 80px;
+	height: 80px;
+}
+
+.btn {
+	font-size: 18px;
+	margin-bottom: ;
+}
+
+.text-client {
+	margin: 100px 0 70px 0;
+		text-transform: uppercase;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.box-bt img {
+height: 210px;
+width: 220px;
+margin-bottom: 30px;
+}
